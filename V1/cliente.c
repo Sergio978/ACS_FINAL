@@ -16,7 +16,7 @@
 #include <netinet/in.h>
 #include <sys/socket.h>
 #define MAXDATASIZE 100
-#define MAXDATASIZE_RESP 20000
+#define MAXDATASIZE_RESP 40000
 
 int main(int argc, char *argv[])
 {

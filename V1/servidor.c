@@ -18,7 +18,7 @@
 #include <sys/wait.h>
 #include <fcntl.h>
 #include <signal.h>
-#define LENGTH 20000
+#define LENGTH 40000
 
 int main(int argc, char *argv[])
 {
